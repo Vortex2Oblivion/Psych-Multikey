@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="noteSplashes-electric.png">
+	<!-- Created with Adobe Animate version 23.0.1.70 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="splash electro down 10000" x="2" y="2" width="273" height="199" frameX="-22" frameY="-23" frameWidth="349" frameHeight="255"/>
+	<SubTexture name="splash electro down 10001" x="277" y="2" width="240" height="199" frameX="-29" frameY="-13" frameWidth="349" frameHeight="255"/>
+	<SubTexture name="splash electro down 10002" x="519" y="2" width="327" height="233" frameX="-3" frameY="-6" frameWidth="349" frameHeight="255"/>
+	<SubTexture name="splash electro down 10003" x="848" y="2" width="349" height="255"/>
+	<SubTexture name="splash electro down2 10000" x="1199" y="2" width="273" height="199" frameX="-22" frameY="-23" frameWidth="349" frameHeight="255"/>
+	<SubTexture name="splash electro down2 10001" x="1474" y="2" width="240" height="199" frameX="-29" frameY="-13" frameWidth="349" frameHeight="255"/>
+	<SubTexture name="splash electro down2 10002" x="1716" y="2" width="327" height="233" frameX="-3" frameY="-6" frameWidth="349" frameHeight="255"/>
+	<SubTexture name="splash electro down2 10003" x="2" y="259" width="349" height="255"/>
+	<SubTexture name="splash electro left 10000" x="353" y="259" width="273" height="199" frameX="-22" frameY="-23" frameWidth="349" frameHeight="255"/>
+	<SubTexture name="splash electro left 10001" x="628" y="259" width="240" height="199" frameX="-29" frameY="-13" frameWidth="349" frameHeight="255"/>
+	<SubTexture name="splash electro left 10002" x="870" y="259" width="327" height="233" frameX="-3" frameY="-6" frameWidth="349" frameHeight="255"/>
+	<SubTexture name="splash electro left 10003" x="1199" y="259" width="349" height="255"/>
+	<SubTexture name="splash electro left2 10000" x="1550" y="259" width="273" height="199" frameX="-22" frameY="-23" frameWidth="349" frameHeight="255"/>
+	<SubTexture name="splash electro left2 10001" x="2" y="516" width="240" height="199" frameX="-29" frameY="-13" frameWidth="349" frameHeight="255"/>
+	<SubTexture name="splash electro left2 10002" x="244" y="516" width="327" height="233" frameX="-3" frameY="-6" frameWidth="349" frameHeight="255"/>
+	<SubTexture name="splash electro left2 10003" x="573" y="516" width="349" height="255"/>
+	<SubTexture name="splash electro right 10000" x="924" y="516" width="273" height="199" frameX="-22" frameY="-23" frameWidth="349" frameHeight="255"/>
+	<SubTexture name="splash electro right 10001" x="1199" y="516" width="240" height="199" frameX="-29" frameY="-13" frameWidth="349" frameHeight="255"/>
+	<SubTexture name="splash electro right 10002" x="1441" y="516" width="327" height="233" frameX="-3" frameY="-6" frameWidth="349" frameHeight="255"/>
+	<SubTexture name="splash electro right 10003" x="2" y="773" width="349" height="255"/>
+	<SubTexture name="splash electro right2 10000" x="353" y="773" width="273" height="199" frameX="-22" frameY="-23" frameWidth="349" frameHeight="255"/>
+	<SubTexture name="splash electro right2 10001" x="628" y="773" width="240" height="199" frameX="-29" frameY="-13" frameWidth="349" frameHeight="255"/>
+	<SubTexture name="splash electro right2 10002" x="870" y="773" width="327" height="233" frameX="-3" frameY="-6" frameWidth="349" frameHeight="255"/>
+	<SubTexture name="splash electro right2 10003" x="1199" y="773" width="349" height="255"/>
+	<SubTexture name="splash electro square 10000" x="1550" y="773" width="273" height="199" frameX="-22" frameY="-23" frameWidth="349" frameHeight="255"/>
+	<SubTexture name="splash electro square 10001" x="2" y="1030" width="240" height="199" frameX="-29" frameY="-13" frameWidth="349" frameHeight="255"/>
+	<SubTexture name="splash electro square 10002" x="244" y="1030" width="327" height="233" frameX="-3" frameY="-6" frameWidth="349" frameHeight="255"/>
+	<SubTexture name="splash electro square 10003" x="573" y="1030" width="349" height="255"/>
+	<SubTexture name="splash electro up 10000" x="924" y="1030" width="273" height="199" frameX="-22" frameY="-23" frameWidth="349" frameHeight="255"/>
+	<SubTexture name="splash electro up 10001" x="1199" y="1030" width="240" height="199" frameX="-29" frameY="-13" frameWidth="349" frameHeight="255"/>
+	<SubTexture name="splash electro up 10002" x="1441" y="1030" width="327" height="233" frameX="-3" frameY="-6" frameWidth="349" frameHeight="255"/>
+	<SubTexture name="splash electro up 10003" x="2" y="1287" width="349" height="255"/>
+	<SubTexture name="splash electro up2 10000" x="353" y="1287" width="273" height="199" frameX="-22" frameY="-23" frameWidth="349" frameHeight="255"/>
+	<SubTexture name="splash electro up2 10001" x="1199" y="516" width="240" height="199" frameX="-29" frameY="-13" frameWidth="349" frameHeight="255"/>
+	<SubTexture name="splash electro up2 10002" x="1441" y="516" width="327" height="233" frameX="-3" frameY="-6" frameWidth="349" frameHeight="255"/>
+	<SubTexture name="splash electro up2 10003" x="2" y="773" width="349" height="255"/>
+</TextureAtlas>
