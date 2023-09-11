@@ -2289,7 +2289,8 @@ class ChartingState extends MusicBeatState
 		gridBlackLine.antialiasing = false;
 		gridLayer.add(gridBlackLine);
 		updateGrid();
-
+		
+		remove(strumLine);
 		strumLine = new FlxSprite(0, 50).makeGraphic(Std.int(GRID_SIZE + GRID_SIZE * ManiaData.keyCounts[PlayState.SONG.keyCount] * 2), 4);
 		add(strumLine);
 
